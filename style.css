@@ -1,0 +1,352 @@
+* {
+    margin: 0%;
+}
+
+.nav {
+    border: 1px solid color(white white white white);
+    background-color: rgb(235, 235, 235);
+    font-size: 14px;
+    color: rgb(77, 77, 77);
+    ;
+
+}
+
+.logo img {
+    height: 45px;
+}
+
+.logo ul {
+    display: inline;
+    word-spacing: 3px;
+}
+
+.logo ul li {
+    list-style: none;
+    display: inline;
+    padding-left: 16px;
+    vertical-align: 20PX;
+    padding-top: 10px;
+}
+
+.search {
+    padding-left: 40px;
+}
+
+.store {
+    padding-left: 18px;
+}
+
+.intro {
+    font-size: 22px;
+    text-align: center;
+    margin-top: 30px;
+    background-color: rgb(235, 235, 235);
+    height: 150%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: rgb(77, 77, 77);
+}
+
+i {
+    color: rgb(41, 87, 187);
+    font-style: normal;
+}
+
+.iphone14 {
+    font-size: 22px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.wonderfull {
+    text-align: center;
+    margin: 20px;
+    font-size: 300%;
+}
+
+.ammount {
+    font-size: 22px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.buybutton {
+    text-align: center;
+}
+
+#button {
+    text-align: center;
+    margin-top: 16px;
+    font-size: 18px;
+    border: rgb(48, 113, 253);
+    border-radius: 18px;
+    padding: 12px 12px 12px 12px;
+    color: white;
+    background-color: rgb(49, 107, 231);
+}
+
+#button:hover {
+    background-color: rgb(24, 89, 230);
+}
+
+.buybutton p {
+    color: rgb(25, 111, 224);
+    padding-top: 16px;
+    font-size: 20px;
+}
+
+.buybutton p:hover {
+    color: rgb(59, 115, 189);
+    text-decoration-line: underline;
+}
+
+.ratepro {
+    background-color: black;
+}
+
+.iphone14pro {
+    font-size: 22px;
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+}
+
+.pro {
+    text-align: center;
+    margin: 20px;
+    font-size: 300%;
+    color: white;
+}
+
+.ammountpro {
+    font-size: 22px;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+
+.buybuttonpro {
+    text-align: center;
+    color: rgb(71, 71, 245)
+}
+
+#button {
+    text-align: center;
+    margin-top: 16px;
+    font-size: 18px;
+    border: rgb(48, 113, 253);
+    border-radius: 18px;
+    padding: 12px 12px 12px 12px;
+    color: white;
+    background-color: rgb(49, 107, 231);
+}
+
+#button:hover {
+    background-color: rgb(61, 116, 233);
+}
+
+.buybuttonpro p {
+    color: rgb(47, 132, 243);
+    padding-top: 16px;
+    font-size: 20px;
+}
+
+.buybuttonpro p:hover {
+    color: rgb(51, 129, 230);
+    text-decoration-line: underline;
+}
+
+.iphonese {
+    font-size: 22px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.wonderfullse {
+    text-align: center;
+    margin: 20px;
+    font-size: 300%;
+}
+
+.wonderfullse p {
+    color: rgb(8, 8, 201);
+}
+
+.ammountse {
+    font-size: 22px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.buybuttonse {
+    text-align: center;
+}
+
+#buttonse {
+    text-align: center;
+    margin-top: 16px;
+    font-size: 18px;
+    border: rgb(48, 113, 253);
+    border-radius: 18px;
+    padding: 12px 12px 12px 12px;
+    color: white;
+    background-color: rgb(49, 107, 231);
+}
+
+#buttonse:hover {
+    background-color: rgb(24, 89, 230);
+}
+
+.buybuttonse p {
+    color: rgba(53, 101, 163, 0.89);
+    padding-top: 16px;
+    font-size: 20px;
+}
+
+.buybuttonse p:hover {
+    color: rgb(59, 115, 189);
+    text-decoration-line: underline;
+}
+
+.pragraph {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 45px;
+    font-weight: bold;
+}
+
+
+#iphone14pro {
+    display: inline;
+
+}
+#iphone14pro p {
+    padding-left: 45px;
+}
+
+.namephonepro {
+    font-size: 29px;
+    font-weight: bold;
+    margin-bottom: 12px;
+    padding-left: 30px;
+}
+
+.introphonepro {
+    font-size: 20px;
+    color: rgb(77, 77, 77);
+    ;
+    padding-left: 30px;
+}
+
+.finalammoutpro {
+    margin-left: 40px;
+    margin-top: 35px;
+    color: rgb(76, 76, 76);
+    ;
+    padding-left: 30px;
+}
+
+#buttonfinalpro {
+    text-align: center;
+    margin-left: 90px;
+    margin-top: 18px;
+    font-size: 14px;
+    border: rgb(48, 113, 253);
+    border-radius: 14px;
+    padding: 10px 10px 10px 10px;
+    color: white;
+    background-color: rgb(49, 107, 231);
+    
+}
+
+#buttonfinalpro:hover {
+    background-color: rgb(24, 89, 230);
+}
+
+.link1 {
+    color: rgb(47, 132, 243);
+    padding-top: 12px;
+    font-size: 16px;
+    padding-left: 70px;
+    
+}
+.link1:hover{
+    color: rgb(29, 31, 148);
+    text-decoration-line: underline;
+}
+#iphone14{
+      display: inline;
+      width: 25%
+
+}
+
+.namephone{
+    padding-left: 60px;
+}
+
+.namephone {
+    font-size: 29px;
+    font-weight: bold;
+    margin-bottom: 12px;
+    
+}
+
+.introphone {
+    font-size: 20px;
+    color: rgb(77, 77, 77);
+    padding-left: 50px;
+}
+
+.finalammout {
+    margin-left: 40px;
+    margin-top: 35px;
+    color: rgb(76, 76, 76);
+    padding-left: 40px;
+}
+
+#buttonfinal {
+    text-align: center;
+    margin-left: 90px;
+    margin-top: 18px;
+    font-size: 14px;
+    border: rgb(48, 113, 253);
+    border-radius: 14px;
+    padding: 10px 10px 10px 10px;
+    color: white;
+    background-color: rgb(49, 107, 231);
+}
+
+#buttonfinal:hover {
+    background-color: rgb(24, 89, 230);
+}
+
+.link2 {
+    color: rgb(47, 132, 243);
+    padding-top: 16px;
+    font-size: 16px;
+    padding-left: 70px;
+    
+}
+.link2:hover{
+    color: rgb(29, 31, 148);
+    text-decoration-line: underline;
+}
+
+.caintainer{
+    width: 100%;
+   /* padding: 10px; */
+   display: inline-block;
+    
+}
+.margepro{
+    width: 35%;
+    float: left;
+    padding-left: 130px;
+    
+}
+.marge14{
+    float: right ;
+    width: 35%;
+    padding-top: 50px;
+    padding-right: 60px;
+}
